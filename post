@@ -1,0 +1,321 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <script src="bootstrap.min.js"></script>
+  <link href="base.css" rel="stylesheet">
+  <link href="fa.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+  </script>
+ <title>Ngentot</title>
+  </head>
+  <body>
+    <center>
+  <div class="panel panel-primary col-sm-6">
+  <div class="panel-heading ">Gawe Ngepost</div>
+  <div class="panel-body ">
+
+<form action="" method="post" class="form-horizontal">
+                      <fieldset>
+    <legend style="color: #ffffff;">POST</legend>
+    <div class="form-group">
+  <label for="URL_LINK" style="color: #ffffff; ">* URL Samean / Url Generator * </label>
+  <input type="text" class="form-control" id="URL_LINK" name="URL_LINK" placeholder="Isi URL Samean / Url Generator" style="z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;">
+</div>
+    <div class="form-group">
+      <label for="URL_GAMBAR" style="color: #ffffff; ">* URL Gambare Samean *</label>
+      <input type="text" class="form-control" id="URL_GAMBAR" name="URL_GAMBAR" class="form-group" placeholder="Isi URL Gambar Samean" style="z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;">
+    </div>
+    <input type="submit" class="btn btn-danger" value="Submit">
+</fieldset>
+    <br><br><strong style='color: #ffffff;'><p>Copyright &copy;2018 rheang.com</p></strong></div>
+    </div>
+      <div class="panel panel-primary col-sm-6">
+  <div class="panel-heading " >URL Njenengan</div>
+  <div class="panel-body ">
+                     <fieldset>
+                         
+    <legend style="color: #ffffff;">URL Tawatan</legend>
+    <center><b style="color: #ffffff;">* instagram *</b></center><br>
+<center>
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='instagram-input' onClick='document.querySelector('#instagram-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=124024574287414&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.instagram.com%26origin%3Dhttp%253A%252F%252Fwww.instagram.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.instagram.com%26origin%3Dhttp%253A%252F%252Fwww.instagram.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link instagram' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='instagram-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* Smule *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='smule-input' onClick='document.querySelector('#smule-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=432838856814725&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.smule.com%26origin%3Dhttp%253A%252F%252Fwww.smule.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.smule.com%26origin%3Dhttp%253A%252F%252Fwww.smule.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link smule' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='smule-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* abc13 *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='abc13-input' onClick='document.querySelector('#abc13-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=1452463148319056&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dabc13.com%26origin%3Dhttp%253A%252F%252Fabc13.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dabc13.com%26origin%3Dhttp%253A%252F%252Fabc13.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link abc13' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='abc13-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* king5 *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='king5-input' onClick='document.querySelector('#king5-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=156537084972880&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.king5.com%26origin%3Dhttp%253A%252F%252Fwww.king5.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.king5.com%26origin%3Dhttp%253A%252F%252Fwww.king5.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link king5' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='king5-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* bing *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='bing-input' onClick='document.querySelector('#bing-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=111239619098&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.bing.com%26origin%3Dhttp%253A%252F%252Fwww.bing.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.bing.com%26origin%3Dhttp%253A%252F%252Fwww.bing.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link bing' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='bing-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* fox *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='fox-input' onClick='document.querySelector('#fox-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=441830202634558&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.fox.com%26origin%3Dhttp%253A%252F%252Fwww.fox.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.fox.com%26origin%3Dhttp%253A%252F%252Fwww.fox.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link fox' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='fox-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+    <center><b style="color: #ffffff;">* miniclip *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='miniclip-input' onClick='document.querySelector('#miniclip-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=111411968896241&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.miniclip.com%26origin%3Dhttp%253A%252F%252Fwww.miniclip.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.miniclip.com%26origin%3Dhttp%253A%252F%252Fwww.miniclip.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link miniclip' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='miniclip-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* developer *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;
+' class='btn btn-block btn-success active ' type='text' id='developer-input' onClick='document.querySelector('#developer-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=113869198637480&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Ddevelopers.facebook.com%26origin%3Dhttp%253A%252F%252Fdevelopers.facebook.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Ddevelopers.facebook.com%26origin%3Dhttp%253A%252F%252Fdevelopers.facebook.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link developer' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='developer-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* live *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='live-input' onClick='document.querySelector('#live-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=236196230548254&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.facebook.com%26origin%3Dhttp%253A%252F%252Fwww.vidio.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.fox.com%26origin%3Dhttp%253A%252F%252Fwww.vidio.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link live' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='live-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+
+    <center><b style="color: #ffffff;">* Ciname *</b></center><br>
+    
+    <input style='z-index: 1000;
+    /* -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0; */
+    /* box-shadow: rgba(0,0,0,.3) 20px -13px 16px 0; */
+    font-weight: bold;
+    display: block;
+    color: #d00606;
+    background-color: #d9edf7;
+    border-color: rgba(255,255,255,.15);
+    box-shadow: 2px 6px 20px 0rem #50ff07;' class='btn btn-block btn-success active ' type='text' id='ciname-input' onClick='document.querySelector('#ciname-input').select();' value='https://www.facebook.com/v2.11/dialog/share_open_graph?action_properties=%7B%22object%22%3A%7B%22og%3Aurl%22%3A%22%22%2C%22og%3Atitle%22%3A%22%22%2C%22og%3Adescription%22%3A%22%22%2C%22og%3Aimage%22%3A%22%22%7D%7D&action_type=og.shares&app_id=288880598326590&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df99d59771254f4%26domain%3Dwww.21cineplex.com%26origin%3Dhttp%253A%252F%252Fwww.21cineplex.com%252Ff1fa46b9bba832c%26relation%3Dopener&display=popup&e2e=%7B%7D&locale=en_US&mobile_iframe=false&next=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FRQ7NiRXMcYA.js%3Fversion%3D42%23cb%3Df1d0d752e41d274%26domain%3Dwww.21cineplex.com%26origin%3Dhttp%253A%252F%252Fwww.21cineplex.com%252Ff1fa46b9bba832c%26relation%3Dopener%26frame%3Dfe082b5d166108%26result%3D%2522xxRESULTTOKENxx%2522&sdk=joey&version=v2.11&_rdc=1&_rdr' placeholder='Link ciname' size='100px'><br>  
+ <p>
+     <input class='btn btn-danger' style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;
+    box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;' type='button' id='ciname-button' value='ngopi'><a style='z-index: 1000;
+    -webkit-box-shadow: rgba(0,0,0,.3) 0 16px 16px 0;'>
+</button>
+                     </fieldset>
+</form>
+</div>
+    </div>
+</div>
+</div>
+<script>
+document.querySelector("#smule-button").onclick = function() {
+  document.querySelector("#smule-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#instagram-button").onclick = function() {
+  document.querySelector("#instagram-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#kompas-button").onclick = function() {
+  document.querySelector("#kompas-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#abc13-button").onclick = function() {
+  document.querySelector("#abc13-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#king5-button").onclick = function() {
+  document.querySelector("#king5-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#fox-button").onclick = function() {
+  document.querySelector("#fox-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#bing-button").onclick = function() {
+  document.querySelector("#bing-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#miniclip-button").onclick = function() {
+  document.querySelector("#miniclip-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#developer-button").onclick = function() {
+  document.querySelector("#developer-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#live-button").onclick = function() {
+  document.querySelector("#live-input").select();
+  document.execCommand('cut');
+};
+</script>
+<script>
+document.querySelector("#ciname-button").onclick = function() {
+  document.querySelector("#ciname-input").select();
+  document.execCommand('cut');
+};
+</script><script>
+document.querySelector("#jawapos-button").onclick = function() {
+  document.querySelector("#jawapos-input").select();
+  document.execCommand('cut');
+};
+</script>
+</center>
+ </div>
+</center>
+</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
